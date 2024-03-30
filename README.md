@@ -1,2 +1,6 @@
-# site-portifolio
-Esse é um projeto de portifolio com o HTML , CSS e Javascript
+# Bem vindo ao curso Git e Github.
+Nesse curso você vai dominar Git e Github do zero ao profissional. 
+
+## Módulos:
+Entendendo o que é Git, aprendendo sobre repositórios, trabalhando com branches. 
+
