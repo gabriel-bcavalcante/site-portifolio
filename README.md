@@ -18,7 +18,7 @@ Nesse curso você vai dominar **Git** e **Github** do _zero ao profissional._
 >Segunda area destacada.
 
 
-**Comando para rodar o projeto**
+### Comando para rodar o projeto
 
 ```
 npm start
