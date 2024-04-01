@@ -8,3 +8,6 @@ Nesse curso você vai dominar **Git** e **Github** do _zero ao profissional._
 ### Redes Sociais:
 [Instagram](https://instagram.com/cavalcantegabriel_)
 
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada.
